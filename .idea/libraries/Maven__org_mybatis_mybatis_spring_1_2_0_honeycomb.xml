@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.mybatis:mybatis-spring:1.2.0-honeycomb">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/1.2.0-honeycomb/mybatis-spring-1.2.0-honeycomb.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/1.2.0-honeycomb/mybatis-spring-1.2.0-honeycomb-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/1.2.0-honeycomb/mybatis-spring-1.2.0-honeycomb-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
